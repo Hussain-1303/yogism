@@ -1,10 +1,11 @@
 [
     {
-        "sanskrit_name" : "Tadasana",
+        "sanskrit_name" : "तादासन",
         "english_name" : "Mountain Pose",
-        "description" : "This pose teaches one to stand with majestic steadiness like a mountain. The word ‘Tada' means a mountain, that's where the name comes from. It involves the major groups of muscles and improves focus and concentration.",
-        "time" : "2 Min",
-        "image": "https://yogtreat.com/wp-content/uploads/2020/07/Tadasana.jpg",
+        "sank_description" : "",
+        "eng_description" : "This pose teaches one to stand with majestic steadiness like a mountain. The word ‘Tada' means a mountain, that's where the name comes from. It involves the major groups of muscles and improves focus and concentration.",
+        "time" : "२ मिनिट्",
+        "image": "https://sanskaryogashala.com/blog/wp-content/uploads/2023/12/747285775-H.webp",
         "benefits" : "It involves the major groups of muscles and improves focus and concentration. It is the starting position for all the other asanas.Stand with your heels slightly apart and hang your arms besides the torso.",
         "variations":"From Tadasana, bend the right knee and place the right foot high on the left inner thigh, taking the hands to the hips. Allow the right knee to be as far forward in space as will keep the frontal hipbones square so there is no rotation in the pelvis. Make sure the standing foot continues to point straight forward and press the right foot and the left inner thigh against each other. Notice that the right hip is hiked up higher than the left, shortening the right waist; descend the right sitting bone towards the left heel. Observe how the body compensates: the left thigh bows forward, and the left outer hip protrudes. To correct, press the left thigh bone back and firm the left outer hip into the midline. Keeping the pelvis squared to the wall you are facing, carefully draw the right knee back to deepen the external rotation in the hip. Only draw the knee back to the extent you can keep the hips square. Raise the arms without flaring the front ribs. If able to keep the arms straight, reach up, touch palms and take the gaze to the thumbs. Hold for 5 to 10 breaths. To exit, use an exhale to release back to Tadasana",
         "category":"Beginner",
@@ -13,10 +14,11 @@
     },
 
     {
-        "sanskrit_name" : "Sirsasana",
+        "sanskrit_name" : "सिरसासन",
         "english_name" : "Headstand Pose",
+        "sank_description" : "",
         "description" : "This asana is practiced by balancing on your head, arms, and elbows. This pose is also called “the king of all asanas”. When in the Headstand, oxygen and nutrients flow to the face, increasing blood flow to the head. This asana good for detoxifying the adrenal glands, relieving stress, and building up the core muscles.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://images.indianexpress.com/2020/04/headstand-1200.jpg",
         "benefits" : "Calms the brain and helps relieve stress and mild depression. Stimulates the pituitary and pineal glands. Strengthens the arms, legs, and spine. Strengthens the lungs. Tones the abdominal organs. Improves digestion. Helps relieve the symptoms of menopause. Therapeutic for asthma, infertility, insomnia, and sinusitis",
         "variations":"Check the position of the inner wrists in the pose. They tend to fall outward, shifting the weight onto the outer forearms. Turn the pinkies away from the back of your head, and bring the inner wrists perpendicular to the floor. As you firm the outer upper arms inward, press the wrists actively into the floor.",
@@ -26,10 +28,11 @@
     },
 
     {
-        "sanskrit_name" : "Vrksasana",
+        "sanskrit_name" : "वृक्सासना",
         "english_name" : "Tree Pose",
+        "sank_description" : "",
         "description":"Tree is an awesome standing balance for beginners to work on to gain focus and clarity, and learn to breathe while standing and keeping the body balanced on one foot. . It replicates the steady stance of a tree.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://freedomgenesis.com/wp-content/uploads/2019/11/young-woman-in-white-pants-doing-tree-pose.jpg?x59136",
         "benefits" : "It involves the major groups of muscles and improves focus and concentration. It is the starting position for all the other asanas.Stand with your heels slightly apart and hang your arms besides the torso.",
         "variations":"You can stand with your back braced against a wall if you feel unsteady in this pose.",
@@ -39,10 +42,11 @@
     },
 
     {
-        "sanskrit_name" : "Balasana",
+        "sanskrit_name" : "बालासना",
         "english_name" : "Child’s Pose",
+        "sank_description" : "",
         "description":"Take a break. Balasana is a restful pose that can be sequenced between more challenging asanas.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://imgk.timesnownews.com/story/balasana.gif?tr=w-1200,h-900",
         "benefits" : "Gently stretches the hips, thighs, and ankles. Calms the brain and helps relieve stress and fatigue. Relieves back and neck pain when done with head and torso supported",
         "variations":"To increase the length of the torso, stretch your arms forward. Lift your buttocks just slightly away from your heels. Reach the arms longer while you draw the shoulder blades down the back. Then without moving the hands, sit the buttocks down on the heels again.",
@@ -52,10 +56,11 @@
     },
 
     {
-        "sanskrit_name" : "Navasana",
+        "sanskrit_name" : "नवासनम्",
         "english_name" : "Boat Pose",
+        "sank_description" : "",
         "description":"You’ve probably heard that Paripurna Navasana (Full Boat Pose) builds core strength. But in yoga, the “core” refers to more than just abs. B.K.S. Iyengar says that practice leads you on an inward journey from the periphery of your body to the core of your being. With Navasana, you’ll build strong abdominal muscles that can help support your lower back.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://d1zxene68j3keg.cloudfront.net/sites/default/files/half%20Boat%20Pose.jpg",
         "benefits" : "Boat Pose builds abdominal and core strength. In addition to the abdominal muscles, it works the deep hip flexors. These muscles get weak when you sit too much. It will also help you build your balance.",
         "variations":"You can hold the backs of your thighs with your hands if that helps you keep a straight spine. Don't be in a hurry to straighten your legs. Keeping the back straight and away from the floor is more important. However, you could use a strap looped under the soles of your feet. Grip the ends of the strap with your hands while you raise your legs and press against the strap with your flexed feet, keeping your balance.",
@@ -65,11 +70,12 @@
     },
 
     {
-        "sanskrit_name" : "Urdhva Hastasana",
+        "sanskrit_name" : "उर्ध्व हस्तासन",
         "english_name" : "Upward Salute Pose",
+        "sank_description" : "",
         "description":"The Upward Salute stretches the entire front of the body, from the fronts of the legs, through the abdomen, the chest, and all the way up into the armpits and shoulders. It also helps to strengthen the muscles of the back, which will help to make backbending postures accessible later on. This is a classic “heart-opening” posture, which is thought to help develop a sense of openness and compassion towards others and a more energetic, attractive posture.",
-        "time" : "1 Min",
-        "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Urdvha-Hastasana-for-Pose-Page-e1574902855918.jpeg",
+        "time" : "१.५ मिनिट्",
+        "image": "https://cdn.yogajournal.com/wp-content/uploads/2008/02/Upward-Salute_Andrew-Clark.jpg?crop=535:301&width=1070&enable=upscale",
         "benefits" : "It helps to strengthen the muscles of the back, which will help to make backbending postures accessible later on. Improves digestion. Stretches the shoulders and armpits. Helps relieve mild anxiety",
         "variations":"N/A",
         "category":"Beginner",
@@ -78,11 +84,12 @@
     },
 
     {
-        "sanskrit_name" : "Utkatasana",
+        "sanskrit_name" : "उत्कटासन",
         "english_name" : "Chair Pose",
+        "sank_description" : "",
         "description":"Chair Pose is indispensable for developing strength and stability in the quadriceps muscles of the front of the leg, as well as the glute muscles of the buttocks.Knee and hip problems are often caused by a lack of stability or strength in these muscles, and this posture is highly recommended for people who are prone to joint issues. This pose strongly engages the largest muscles of the body, so it requires a great deal of energy and generally results in an increased heart rate. This makes it one of the best yoga poses for the cardiovascular system, though it should be approached with some caution by people with hypertension or heart problems.",
-        "time" : "15 Min",
-        "image": "https://livingyogaschool.com/wp-content/uploads/2017/08/chair-pose-yoga_035102360.jpg",
+        "time" : "१५ मिनिट्",
+        "image": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Chair-Pose_Andrew-Clark_2400x1350.jpg?width=900",
         "benefits" : "Strengthens the ankles, thighs, calves, and spine Stretches shoulders and chest Stimulates the abdominal organs, diaphragm, and heart Reduces flat feet",
         "variations":"N/A",
         "category":"Intermediate",
@@ -91,10 +98,11 @@
     },
 
     {
-        "sanskrit_name" : "Garudasana",
+        "sanskrit_name" : "गरुडासन",
         "english_name" : "Eagle Pose",
+        "sank_description" : "",
         "description":"Eagle Pose looks like your stereotypical idea of a crazy, twisted-up-like-a-pretzel yoga pose, but it's not so difficult if you break it down. It is a balance challenge, but since the limbs are drawn into the body and the bent knees mean that the center of gravity is low, Eagle Pose is less precarious that most poses where you're standing on one leg. It also works the difficult to access glutes and inner thighs. Additionally, the pose is a great shoulder stretch.",
-        "time" : "15 Min",
+        "time" : "१५ मिनिट्",
         "image": "https://www.verywellfit.com/thmb/ZnXT9bV8qqcx5hu81F4YYCxQoh8=/1500x1000/filters:fill(FFDB5D,1)/Verywell-8-3567220-EaglePose-764-5c54b31346e0fb000152e74f.jpg",
         "benefits" : "The standing Eagle Pose strengthens your calves, ankles, thighs, and hips as you build your balance and core strength. It helps you develop better concentration. Some people find it beneficial for a low backache or sciatica. Eagle Pose is truly an antidote for the shoulder strain you feel when your work has you sitting at a computer for long hours. You can do eagle arms a few times a day while seated as part of a desk yoga routine to unkink your shoulders or immediately after your yoga warm up.",
         "variations":"If you have trouble balancing on one leg, rest your backside on a wall. If you can't hook the lifted foot around the calf, put a block under the foot instead. You can also use that foot as a kind of kickstand by resting your toes on the floor. This can also help you to stay upright. This pose can be done in a chair.",
@@ -104,10 +112,11 @@
     },
 
     {
-        "sanskrit_name" : "Anjaneyasana",
+        "sanskrit_name" : "अञ्जनेयासनः",
         "english_name" : "Low Lunge",
+        "sank_description" : "",
         "description":"This Asana opens up the mid-section of body, lungs and heart. It likewise develops the warmth in the body and works amazingly well for the individuals who think that it’s difficult to adapt to icy climate. The opening up of the lungs tosses out all the bodily fluid, giving the lungs decent rinses. To practice this Pose, you need a decent feeling of equalization, and your hips, crotch, and legs must be adaptable. This asana is again one of those beguiling looking ones that appear to be simple, however are very testing. This stance gives the hamstrings, crotch, quadriceps, and hips a decent extend, furthermore permits a full scope of movement in the lower body. This posture is ideal for cyclists and runners and profoundly benefits the individuals who have work area occupations.",
-        "time" : "15 Min",
+        "time" : "१५ मिनिट्",
         "image": "https://www.yogateket.com/image/original/DSC_9006.jpg",
         "benefits" : "Anjaneyasana makes the gluteus muscles and the quadriceps stronger. It gives the hips and hip flexors a good stretch. It opens up your shoulders, lungs, and chest. Low Lunge Pose helps you improve your balance. Increases your ability to concentrate and also builds core awareness. Anjaneyasana helps relieve sciatica. Low Lunge Pose stimulates the digestive and reproductive organs. If you practice this asana regularly, your body will be toned and energized.",
         "variations":"If you have trouble balancing on one leg, rest your backside on a wall. If you can't hook the lifted foot around the calf, put a block under the foot instead. You can also use that foot as a kind of kickstand by resting your toes on the floor. This can also help you to stay upright. This pose can be done in a chair.",
@@ -117,23 +126,25 @@
     },
 
     {
-        "sanskrit_name" : "Setu Bandha Sarvangasana",
+        "sanskrit_name" : "सेतु बन्ध सर्वंगासन",
         "english_name" : "Bridge Pose",
+        "sank_description" : "",
         "description":"This Asana opens up the mid-section of body, lungs and heart. It likewise develops the warmth in the body and works amazingly well for the individuals who think that it’s difficult to adapt to icy climate. The opening up of the lungs tosses out all the bodily fluid, giving the lungs decent rinses. To practice this Pose, you need a decent feeling of equalization, and your hips, crotch, and legs must be adaptable. This asana is again one of those beguiling looking ones that appear to be simple, however are very testing. This stance gives the hamstrings, crotch, quadriceps, and hips a decent extend, furthermore permits a full scope of movement in the lower body. This posture is ideal for cyclists and runners and profoundly benefits the individuals who have work area occupations.",
-        "time" : "15 Min",
+        "time" : "१५ मिनिट्",
         "image": "https://imgk.timesnownews.com/story/bridge-pose.gif?tr=w-1200,h-900",
         "benefits" : "Anjaneyasana makes the gluteus muscles and the quadriceps stronger. It gives the hips and hip flexors a good stretch. It opens up your shoulders, lungs, and chest. Low Lunge Pose helps you improve your balance. Increases your ability to concentrate and also builds core awareness. Anjaneyasana helps relieve sciatica. Low Lunge Pose stimulates the digestive and reproductive organs. If you practice this asana regularly, your body will be toned and energized.",
         "variations":"On an exhalation, lift the right knee into your torso, then inhale and extend the leg perpendicular to the floor. Hold for 30 seconds, then release the foot to the floor again with an exhalation. Secure the foot again and repeat with the left leg for the same length of time.",
         "category":"Intermediate",
         "target":"It opens up your shoulders, lungs, and chest.",
-        "steps":"Lie supine on the floor, and if necessary, place a thickly folded blanket under your shoulders to protect your neck. Bend your knees and set your feet on the floor, heels as close to the sitting bones as possible.\nExhale and, pressing your inner feet and arms actively into the floor, push your tailbone upward toward the pubis, firming (but not hardening) the buttocks, and lift the buttocks off the floor. Keep your thighs and inner feet parallel. Clasp the hands below your pelvis and extend through the arms to help you stay on the tops of your shoulders.\nLift your buttocks until the thighs are about parallel to the floor. Keep your knees directly over the heels, but push them forward, away from the hips, and lengthen the tailbone toward the backs of the knees. Lift the pubis toward the navel.\nLift your chin slightly away from the sternum and, firming the shoulder blades against your back, press the top of the sternum toward the chin. Firm the outer arms, broaden the shoulder blades, and try to lift the space between them at the base of the neck (where it’s resting on the blanket) up into the torso.\nStay in the pose anywhere from 30 seconds to 1 minute. Release with an exhalation, rolling the spine slowly down onto the floor."
+        "steps":"Lie supine on the floor, and if necessary, place a thickly folded blanket under your shoulders to protect your neck. Bend your knees and set your feet on the floor, heels as close to the sitting bones as possible.\nExhale and, pressing your inner feet and arms actively into the floor, push your tailbone upward toward the pubis, firming (but not hardening) the buttocks, and lift the buttocks off the floor. Keep your thighs and inner feet parallel. Clasp the hands below your pelvis and extend through the arms to help you stay on the tops of your shoulders.\nLift your buttocks until the thighs are about parallel to the floor. Keep your knees directly over the heels, but push them forward, away from the hips, and lengthen the tailbone toward the backs of the knees. Lift the pubis toward the navel.\nLift your chin slightly away from the sternum and, firming the shoulder blades against your back, press the top of the sternum toward the chin. Firm the outer arms, broaden the shoulder blades, and try to lift the space between them at the base of the neck (where it’s resting on the blanket) up into the torso.\nStay in the pose anywhere from 30 seconds to १ minute. Release with an exhalation, rolling the spine slowly down onto the floor."
     },
 
     {
-        "sanskrit_name" : "Savasana",
+        "sanskrit_name" : "सवासना",
         "english_name" : "Corpse Pose",
+        "sank_description" : "",
         "description":"No yoga session is complete without a final relaxation posture. Even though Corpse Pose (Savasana) is a resting pose, it’s not the same a sleeping. You should try to stay present and aware during the five to 10 minutes you spend in final relaxation.",
-        "time" : "3 Min",
+        "time" : "३ मिनिट्",
         "image": "https://wp.insighttimer.com/blog/wp-content/uploads/2020/02/savasana-in-yoga.jpg",
         "benefits" : "Savasana allows your body and mind time to process what has happened during a yoga class. It provides a necessary counterpoint to the effort you put forth during asana practice. You may also practice Savasana at home before sleeping3﻿ as a way to quiet your mind and get more restful sleep.",
         "variations":"To emphasize the feeling that the body is rooted in the earth, place a folded blanket over your thighs. A block just under your navel has a similar effect, as does an eye pillow.\nIf it's at all chilly in the room, cover up before coming into Savasana. Use an unfolded yoga blanket or put on your sweater and socks. It's very difficult to relax when you are cold.",
@@ -143,11 +154,12 @@
     },
 
     {
-        "sanskrit_name" : "Pranamasana",
+        "sanskrit_name" : "प्राणामासनम्",
         "english_name" : "Prayer pose",
+        "sank_description" : "",
         "description" : "Pranamasana or the Prayer Pose is the starting pose for Surya Namaskara or the Sun Salutation poses. In Pranamasana, the palms are held together in the prayer pose. The word ‘Pranam’ has a Sanskrit root and it means ‘to pay respect’ and asana means a pose. Hence the name Pranamasana. Pranamasana is a common gesture used in India and many eastern countries to show respect and a popular way to greet others especially elders, seniors, gurus and guests. In India, the word for greeting is “Namaste” which means that – I bow down to the Self in you. The Self or the Jiva is said to be located at the heart center. Hence the palms are brought together touching one’s own heart when bowing down and greeting others. This gesture with the hands is called Pranamasana.",
-        "time" : "20 Min",
-        "image": "https://yogtreat.com/wp-content/uploads/2020/07/Tadasana.jpg",
+        "time" : "२० मिनिट्",
+        "image": "https://www.keralatourism.org/images/yoga/category/thumb/pranamasana---the-prayer-pose1_thumb.jpg",
         "benefits" : "Pranamasana is used as the most common form of greeting in India and many eastern countries. It forms the first and last asana of the Surya Namaskara series of poses. It creates a sense of relaxation and concentration for beginning the Surya Namaskara poses.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -156,10 +168,11 @@
     },
 
     {
-        "sanskrit_name" : "Hasta Uttasana",
+        "sanskrit_name" : "हस्त उत्तमासना",
         "english_name" : "Raised arms pose",
+        "sank_description" : "",
         "description" : "Hasta Uttanasana, also commonly known as Raised Arms pose is a standing yoga pose. It is a back-bend and stretches yoga pose. Hasta Uttanasana is the 2nd and 11th yoga pose of the sequence of Surya Namaskar (Sun Salutation). It is a beginner’s yoga pose. While practicing it as 2nd pose, you can chant the mantra “Om Ravaye Namah“, and during the 11th pose, you should chant the mantra “Om Arkaya Namah”.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://www.betterbraces.com/media/wysiwyg/yoga-poses/yoga-standing-back-bend_1.jpg",
         "benefits" : "Improves your digestion Stretches you arms, spine, abdomen, and chest area Improves your respiratory functions Hasta Uttanasana also helps with weight loss Stretches and tones your abdomen muscles Reduces fatigue Helps with drooping shoulders Improves blood circulation of the body Energizes the whole body for the whole day Increases your memory Relives the stress Strengthens your arms, legs, and shoulders Tones your arms and thighs",
         "variations":"N/A",
@@ -169,10 +182,11 @@
     },
 
     {
-        "sanskrit_name" : "Hasta Padasana",
+        "sanskrit_name" : "हस्त पदासनम्",
         "english_name" : "Standing forward bend pose",
+        "sank_description" : "",
         "description" : "Hastapadasana is derived from sanskrit the words hasta means hands, padah means foot and asana means posture or pose. It is also known as standing forward bend or hands to feet pose. This asana requires a high level of concentration.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://fitsri.com/wp-content/uploads/2020/07/Padahastasana-hand-to-foot-pose.jpg",
         "benefits" : "It gives strength to the muscles of your back. It helps in weight loss. It is good for hair loss. It is good for the nervous system as it increases the blood supply. All disorders of belly and digestive system can be cured by the daily practice of this asana. It makes the backbone flexible. It relieves menstrual problems in women.",
         "variations":"N/A",
@@ -182,10 +196,11 @@
     },
 
     {
-        "sanskrit_name" : "Ashwa Sanchalanasana",
+        "sanskrit_name" : "अश्व सञ्चालनासन",
         "english_name" : "Equestrian pose",
+        "sank_description" : "",
         "description" : "Ashwa Sanchalanasana known as Equestrian Pose is a low lunge and falls into the category of balancing postures. The Sanskrit name Ashwa Sanchalanasana is derived from three words. Ashwa meaning Horse, Sanchalana meaning movement and Asana meaning Posture. This asana is practiced at the 4th and 9th position in Suryanamaskar series. Practicing this asana stimulates abdominal organs. Along with it there are several other benefits of Ashwa Sanchalanasana. Let’s begin by knowing the steps to practice Ashwa Sanchalanasana.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://fitsri.com/wp-content/uploads/2020/07/ashwa-sanchalanasana-equestrian-pose.jpg",
         "benefits" : "It tones the abdominal organs. It gives flexibility to the leg muscles during stretching. It gives a sense of nervous balance.",
         "variations":"N/A",
@@ -195,11 +210,12 @@
     },
 
     {
-        "sanskrit_name" : "Dandasana",
+        "sanskrit_name" : "दण्डासन",
         "english_name" : "Staff pose",
+        "sank_description" : "",
         "description" : "Staff Pose (Dandasana) gives you the basic alignment used for most other seated yoga poses. Think of it as a seated version of Mountain Pose (Tadasana), which is the basis for standing poses. The most important part of this pose is finding your spine in an upright position that is sustainable. This may mean sitting up on a blanket or two. In a typical yoga practice, Staff Pose leads into a forward bend.",
-        "time" : "10 Min",
-        "image": "https://cdn.lessons.com/assets/images/courses/yoga/staff-yoga-pose.jpg",
+        "time" : "10 मिनिट्",
+        "image": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Dandasana-Pose_Andrew-Clark_2400x1350.jpeg?crop=16:9&width=1500",
         "benefits" : "Staff Pose stretches the hamstrings and calves and improves spinal awareness. If you run or play sports that have a lot of running, it is likely that you have tight hamstrings and calves. This pose can help restore some flexibility and it may help you improve your posture. It is also a pose that might help when you feel sciatica pain, although you should avoid following it with Forward Bend.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -208,11 +224,12 @@
     },
 
     {
-        "sanskrit_name" : "Ashtanga Namaskara",
+        "sanskrit_name" : "अष्टाङ्ग नमस्कार",
         "english_name" : "Knees, chest and chin pose",
+        "sank_description" : "",
         "description" : "Knees, Chest, and Chin Pose (Ashtanga Namaskara) is often taught as a beginner's alternative to Chaturanga Dandasana in a sun salutation sequence. You are prone with your back arched and chin, chest, hands, knees, and feet touching the mat. It's a great way for beginners to work on building the arm strength needed for Chaturanga Dandasana. It also acts as a warm-up for the backbends you'll likely get to later in your practice session. In the sun salutations, it is the sixth pose. This pose has a lot to offer more advanced yoga students as well.",
-        "time" : "10 Min",
-        "image": "https://styleoga.it/nuovosito/wp-content/uploads/2019/02/ashtanga-namaskara.jpg",
+        "time" : "10 मिनिट्",
+        "image": "https://styleoga.it/wp-content/uploads/2019/02/ashtanga-namaskara.jpg",
         "benefits" : "This pose improves the mobility of the back and increases arm strength while opening up the chest. It is like a half push-up, so it helps build the muscles necessary to do Chaturanga safely. This pose prepares you for other poses requiring arm balancing. In daily life, you may need to get into and out of this prone position and the pose will strengthen you for that task.\n\nThis pose is also known as the Salute with Eight Limbs. In Sanskrit, ashta means eight and anga means part while namaskara means salutation. This name comes from the body touching the ground in eight locations during the pose. You touch the ground with your feet, knees, palms, chest, and chin.",
         "variations":"Practice this pose while you build your arm and core strength. Try to resist the urge to skip this pose in a rush to get to the more challenging Chaturanga.",
         "category":"Intermediate",
@@ -221,10 +238,11 @@
     },
 
     {
-        "sanskrit_name" : "Bhujangasana",
+        "sanskrit_name" : "भुजंगासन",
         "english_name" : "Cobra pose",
+        "sank_description" : "",
         "description" : "Bhujangasana or Cobra Pose is a solution to solve these and many other problems, just sitting (or lying down) at home! Bhujangasana, the Cobra Pose, is a pose that you do while lying down on your stomach. It gives your body (especially the back), a good stretch that melts your stress away almost instantly !",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://t4.ftcdn.net/jpg/02/52/86/15/360_F_252861510_vS7xBqOQjIBlIzwdJ1rxpcab4vxUyJSj.jpg",
         "benefits" : "Opens up the shoulders and neck to relieve pain Tones the abdomen Strengthens the entire back and shoulders. Improves flexibility of the upper and middle back Expands the chest. Improves blood circulation. Reduces fatigue and stress. Useful for people with respiratory disorders such as asthma.",
         "variations":"N/A",
@@ -234,11 +252,12 @@
     },
 
     {
-        "sanskrit_name" : "Parvatasana",
+        "sanskrit_name" : "पार्वतासन",
         "english_name" : "The Mountain Pose",
+        "sank_description" : "",
         "description" : "Parvatasana or the Mountain pose is part of the Sun Salutation series of asanas. It appears as the 4th pose and the 9th pose in the Sun Salutation or Surya Namaskara. In Sanskrit “Parvata’ means mountain. The pose looks like a mountain from the sides and hence the name Parvatasana.",
-        "time" : "10 Min",
-        "image": "https://myyogatutor.com/assets/HC15_01981.jpg",
+        "time" : "10 मिनिट्",
+        "image": "https://images.healthshots.com/healthshots/en/uploads/2024/03/11202046/mountain-pose.jpg",
         "benefits" : "Parvatasana strengthens the muscles of the arms and legs. It tones the spinal nerves and sends good flow of blood to the spinal region. It increases blood flow to the brain and gives mild benefits similar to inverted asanas.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -247,10 +266,11 @@
     },
 
     {
-        "sanskrit_name" : "Siddhasana",
+        "sanskrit_name" : "सिद्धासन",
         "english_name" : "Accomplished Pose / Perfect Pose",
+        "sank_description" : "",
         "description" : "Siddhasana is one of only two poses that can lay claim to being the first yoga pose. Along with Padmasana (Lotus Pose), these two are the only poses that appear in all of the four main ancient yoga texts.",
-        "time" : "10 Min",
+        "time" : "10 मिनिट्",
         "image": "https://www.fitsri.com/wp-content/uploads/2019/12/siddhasana-accomplished-pose.jpg",
         "benefits" : "Stretches the front of your ankles. Strengthens calf muscles. Stretches your groin muscles, which helps improve hip flexibility. Stretches inner thighs/hip adductors. It’s a great hip opener. Strengthens your lower back. Builds strength in your erector spinae muscles (the muscles that help you sit up straight). Strengthens your core. Sitting in Siddhasana while meditating or practicing pranayama can help calm your nervous system.",
         "variations":"If you feel discomfort in your hips when performing the Siddhasana pose or your hips are too tight to do the move, sit on a folded blanket, so your hips are above the level of your knees. If this is still not enough of a modification, consider adding another blanket or pillow to raise you up higher. To prep for this pose, try the Sukhasana or easy pose. This modified version of the Siddhasana changes the placement of your feet, which helps you work on strength and flexibility in your hips.",
@@ -260,10 +280,11 @@
     },
 
     {
-        "sanskrit_name" : "Vajrasana",
+        "sanskrit_name" : "वज्रसन",
         "english_name" : "Diamond pose",
+        "sank_description" : "",
         "description" : "Thunderbolt pose (Vajrasana) is a beginner yoga pose mostly associated with Hatha yoga. It is an asana, which is a body posture. This yoga pose is often used for meditation purposes. There is not a lot of stretching involved in this pose, though it strengthens the back and core through proper posture. Vajrasana also opens up the chest and shoulders, making breathing patterns easy and fluid during meditation in this pose. If you have sensitive knees you may need to modify this pose, but you will still receive the same benefits.",
-        "time" : "10 Min",
+        "time" : "10 मिनिट्",
         "image": "https://imagevars.gulfnews.com/2017/1/17/1_16a07fe5cb2.1963173_2708710889_16a07fe5cb2_large.jpg",
         "benefits" : "Enhances blood circulation in the lower abdomen, improving digestion. Relieves excessive gas and pain in the stomach region. Strengthens the nerves of legs and thighs.  Makes knees and ankle joints flexible, preventing certain rheumatic diseases. Keeps the neck and spine aligned and erect, without much effort, enabling easy energy flow in the nadis (energy channels) in the back. Relaxes the waist and hip region, providing relief during menstrual pain. Acts as a base posture for the practice of pranayamas, as well as a preparatory pose for meditation.",
         "variations":"N/A",
@@ -273,11 +294,12 @@
     },
     
     {
-        "sanskrit_name" : "Konasana",
+        "sanskrit_name" : "कोनासन",
         "english_name" : "Diamond pose",
+        "sank_description" : "",
         "description" : "Thunderbolt pose (Vajrasana) is a beginner yoga pose mostly associated with Hatha yoga. It is an asana, which is a body posture. This yoga pose is often used for meditation purposes. There is not a lot of stretching involved in this pose, though it strengthens the back and core through proper posture. Vajrasana also opens up the chest and shoulders, making breathing patterns easy and fluid during meditation in this pose. If you have sensitive knees you may need to modify this pose, but you will still receive the same benefits.",
-        "time" : "10 Min",
-        "image": "https://imagevars.gulfnews.com/2017/1/17/1_16a07fe5cb2.1963173_2708710889_16a07fe5cb2_large.jpg",
+        "time" : "10 मिनिट्",
+        "image": "https://srisrischoolofyoga.org/na/wp-content/uploads/2022/07/angle_pose_kokasana-1-1255x800.jpg",
         "benefits" : "Enhances blood circulation in the lower abdomen, improving digestion. Relieves excessive gas and pain in the stomach region. Strengthens the nerves of legs and thighs.  Makes knees and ankle joints flexible, preventing certain rheumatic diseases. Keeps the neck and spine aligned and erect, without much effort, enabling easy energy flow in the nadis (energy channels) in the back. Relaxes the waist and hip region, providing relief during menstrual pain. Acts as a base posture for the practice of pranayamas, as well as a preparatory pose for meditation.",
         "variations":"N/A",
         "category":"Beginner",
@@ -286,10 +308,11 @@
     }
     ,
     {
-        "sanskrit_name" : "Gomukhasana",
+        "sanskrit_name" : "गोमुखासन",
         "english_name" : "Cow face pose",
+        "sank_description" : "",
         "description" : "A seated yoga posture, Gomukhasana can be performed along with a set of different seated asanas. It helps stretch the arms, triceps, shoulders, and chest. Requiring the practitioner to sit erectly, it also enhances one’s posture.",
-        "time" : "2 Min",
+        "time" : "२ मिनिट्",
         "image": "https://media.newstrack.in/uploads/health-lifestyle/health-tips/Sep/08/big_thumb/health_5d74e8c98ac27.JPG",
         "benefits" : "Cow Face Pose stretches the hips, ankles, shoulders, arms, and chest—almost every part of your body. It demonstrates how different the two sides of most people's bodies are; often it's much easier to bring your hands to meet behind your back on one side than the other. This pose may help you correct your posture and begin to equalize your flexibility. It's a great pose for those who sit most of the day at work as it will open your hips and chest, counteracting the slump many people adopt while sitting. It is a calming and centering pose.",
         "variations":"Bring a blanket, block, or bolster under your butt if that makes the pose more comfortable. Use the props to level out your seat if it's uneven (one side of your butt higher than the other). If you are twisting in order to try to join your hands, grasp a strap rather than force them to join. Over time, work on moving your hands toward each other along the strap.",
@@ -299,23 +322,25 @@
     },
 
     {
-        "sanskrit_name" : "Marichyasana III",
+        "sanskrit_name" : "मरीच्यासन III",
         "english_name" : "Marichi’s Pose",
+        "sank_description" : "",
         "description" : "Unlike Marichyasana I and II, Marichyasana III is not a forward bend, rather a deeper seated twist. It is often included following a seated forward bend sequence. It is useful, initially, to take height under the buttocks to allow the arm to wrap around and clasp the back hand. The initial focus is simply the twisting action which must commence low in the abdomen so as to enable the front shoulder to move beyond the thigh.",
-        "time" : "2 Min",
-        "image": "https://www.yogaasan.com/wp-content/uploads/2016/09/3ec54e033c0f6b6b97891d784a5ebe53.jpg",
+        "time" : "२ मिनिट्",
+        "image": "https://beyogi.com/wp-content/uploads/2015/03/Marichis-Pose-3-Marichyasana-III-1100x480.png.webp",
         "benefits" : "Massages abdominal organs, including the liver and kidneys Stretches the shoulders Stimulates the brain Relieves mild backache and hip pain Strengthens and stretches the spine",
         "variations":"In this pose the head is usually rotated in the same direction as the torso. But it’s also possible to rotate the head counter to the torso. So, for example, when you rotate the torso to the right (as described above), you would rotate your head to the left and gaze out over your left big toe.",
         "category":"Beginner",
         "target":"Strengthens and stretches the spine",
-        "steps":"Sit in Dandanasa (Staff Pose), then bend your right knee and put the foot on the floor, with the heel as close to the right sitting bone as possible. Keep the left leg strong and rotated slightly inward; ground the head of the thigh bone into the floor. Press the back of the left heel and the base of the big toe away from the pelvis. Also press the inner right foot actively into the floor, but soften the inner right groin to receive the pubis as you twist. Grounding the straight-leg thigh and bent-knee foot will help you lengthen your spine, which is always the first prerequisite of a successful twist.\nWith an exhalation, rotate your torso to the right and wrap your left arm around the right thigh. Hold the outer thigh with your left hand, then pull the thigh up as you release the right hip toward the floor. Press your right fingertips onto the floor just behind your pelvis to lift the torso slightly up and forward.\nRemember to keep your straight leg and bent-knee foot grounded. Sink the inner right groin deeper into the pelvis, then lengthen your front belly up out of the groin along the inner right thigh. Continue lengthening the spine with each inhalation, and twist a little more with each exhalation. Hug the thigh to your belly, then lean back against your shoulder blades into an upper-back backbend. Gently turn your head to the right to complete the twist in your cervical spine.\nStay in the pose for 30 seconds to 1 minute. Then release with an exhalation, reverse the legs and twist to the left for an equal length of time."
+        "steps":"Sit in Dandanasa (Staff Pose), then bend your right knee and put the foot on the floor, with the heel as close to the right sitting bone as possible. Keep the left leg strong and rotated slightly inward; ground the head of the thigh bone into the floor. Press the back of the left heel and the base of the big toe away from the pelvis. Also press the inner right foot actively into the floor, but soften the inner right groin to receive the pubis as you twist. Grounding the straight-leg thigh and bent-knee foot will help you lengthen your spine, which is always the first prerequisite of a successful twist.\nWith an exhalation, rotate your torso to the right and wrap your left arm around the right thigh. Hold the outer thigh with your left hand, then pull the thigh up as you release the right hip toward the floor. Press your right fingertips onto the floor just behind your pelvis to lift the torso slightly up and forward.\nRemember to keep your straight leg and bent-knee foot grounded. Sink the inner right groin deeper into the pelvis, then lengthen your front belly up out of the groin along the inner right thigh. Continue lengthening the spine with each inhalation, and twist a little more with each exhalation. Hug the thigh to your belly, then lean back against your shoulder blades into an upper-back backbend. Gently turn your head to the right to complete the twist in your cervical spine.\nStay in the pose for 30 seconds to १ minute. Then release with an exhalation, reverse the legs and twist to the left for an equal length of time."
     },
 
     {
-        "sanskrit_name" : "Malasana",
+        "sanskrit_name" : "मालासना",
         "english_name" : "Garland Pose",
+        "sank_description" : "",
         "description" : "Garland Pose (Malansana) is yoga's deep squat. It opens your hips and groin in counterbalance to the tightness you can develop from sitting too much. You can make use of props for support at first so you can do the pose in a way that's not painful. Then work over time to slowly wean yourself from the props by lowering them little by little. It can be a long process, but it works and is important for your long-term mobility and for pain prevention.",
-        "time" : "2 Min",
+        "time" : "२ मिनिट्",
         "image": "https://static.toiimg.com/thumb/msid-80369745/80369745.jpg?width=500&resizemode=4",
         "benefits" : "Garland Pose opens the hips and groins as it stretches and strengthens the feet and ankles. While squatting comes naturally to children and is used as a resting position in many places on Earth, most adults in the First World have gotten out of the habit. So far out of the habit, in fact, that they find squatting extremely uncomfortable for their hips and feet. Garland pose is an effective way to counter the tightness you get from spending too much time sitting in chairs.",
         "variations":"Slide a block or two under your butt for more support if necessary. Over time, see if you can gradually lower the height of your support so that gravity can work to stretch your hips and ankles. If you have difficulty balancing in this pose, try it near a wall or facing the back of a chair so you can reach out for balance. You may also do this pose with your back against a wall.",
@@ -325,10 +350,11 @@
     },
 
     {
-        "sanskrit_name" : "Navasana",
+        "sanskrit_name" : "नवासनम्",
         "english_name" : "Boat Pose",
+        "sank_description" : "",
         "description":"An ab and deep hip flexor strengthener, Boat Pose, or Paripurna Navasana in Sanskrit, requires you to balance on the tripod of your sitting bones and tailbone to build mental and physical focus, inspiring a full-body awareness.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://imgk.timesnownews.com/story/balasana.gif?tr=w-1200,h-900",
         "benefits" : "Strengthens the abdomen, hip flexors, and spine. Stimulates the kidneys, thyroid and prostate glands, and intestines. Helps relieve stress. Improves digestion",
         "variations":"From Full Boat Pose, clasp your hands on the back of your head and, with an exhalation, lower the legs slightly. At the same time round your back, so that you are now resting on your sacrum (though your lower back is still off the floor). Stretch your elbows out to the sides and bring the tips of your big toes in line with your eyes.",
@@ -338,10 +364,11 @@
     },
 
     {
-        "sanskrit_name" : "Ashwasanchalasana",
+        "sanskrit_name" : "अश्वसञ्चालसन",
         "english_name" : "Equestrian pose",
+        "sank_description" : "",
         "description":"Ashwa Sanchalanasana known as Equestrian Pose is a low lunge and falls into the category of balancing postures. The Sanskrit name Ashwa Sanchalanasana is derived from three words. Ashwa meaning Horse, Sanchalana meaning movement and Asana meaning Posture. This asana is practiced at the 4th and 9th position in Suryanamaskar series. Practicing this asana stimulates abdominal organs. Along with it there are several other benefits of Ashwa Sanchalanasana. Let’s begin by knowing the steps to practice Ashwa Sanchalanasana.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://fitsri.com/wp-content/uploads/2020/07/ashwa-sanchalanasana-equestrian-pose.jpg",
         "benefits" : "Stretches spine therefore increasing the flexibility of the back. Strengthens the knee and ankles, opens up groin and hips. Strengthens the muscles of the chest hence enhances lung capacity. Tones and massages kidney, liver leading to their well functioning.",
         "variations":"N/A",
@@ -351,10 +378,11 @@
     },
 
     {
-        "sanskrit_name" : "Uttana Shishosana",
+        "sanskrit_name" : "उत्ताना शिशुसना",
         "english_name" : "Extended Puppy",
+        "sank_description" : "",
         "description":"Uttana Shishosana is one of the easiest and most basic yoga poses or asanas, making it the perfect one for beginners. It is a combination of two different asanas, the Child Pose and the Downward Facing Dog Pose. It exercises various parts of your body, such as upper arms, shoulders, neck, back, chest, hips, abdomen and hamstrings. This pose relieves stress by deeply stretching the spine. It increases self-confidence and fosters a feeling of self-love. If you have a desk job or you are feeling fatigued, practicing this asana will release any accumulated tension in your body.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://fitsri.com/wp-content/uploads/2020/10/Uttana-Shishosana-extendted-puppy-pose.jpg",
         "benefits" : "Uttana Shishosana, also known as the Extended Puppy Pose, focuses primarily on the back, shoulders and arm areas. In fact, it strengthens the hips and back muscles. However, if performed carefully, it can also activate your abdominal muscles, thereby aiding in digestion, reducing bloating and helping to burn stubborn belly fat. This yoga pose increases the flexibility of your spinal cord and muscles. It also improves a person’s posture and is an exceptional way to regulate Prana, the life-giving force.",
         "variations":"N/A",
@@ -364,10 +392,11 @@
     },
 
     {
-        "sanskrit_name" : "Hanumanasana",
+        "sanskrit_name" : "हनुमानसन",
         "english_name" : "Monkey Pose",
+        "sank_description" : "",
         "description":"“It was the greatest leap ever taken. The speed of Hanuman’s jump pulled blossoms and flowers into the air after him and they fell like little stars on the waving treetops. The animals on the beach had never seen such a thing; they cheered Hanuman, then the air burned from his passage, and red clouds flamed over the sky .” (Ramayana, retold by William Buck). This pose then, in which the legs are split forward and back, mimics Hanuman’s famous leap from the southern tip of India to the island of Sri Lanka.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://www.yogateket.com/image/original/splitspose.jpg",
         "benefits" : "Hanumanasana stretches and strengthens muscles in the hamstrings, thighs, and groin region. This yoga pose also stimulates the abdominal organs and improves their functioning. Regular practice of this pose ensures that the hips become more flexible over a period of time.",
         "variations":"N/A",
@@ -376,10 +405,11 @@
         "steps":"Start by kneeling on the floor with knees a little apart. Place your right foot forward and raise the inner sole such that only the outer heel touches the floor.\nAs you exhale, bend your torso forward and bring your fingertips to touch the floor.\nSlowly, move your left knee backward till the knee and the front of the foot touch the ground. Simultaneously slide your right leg forward till it touches the floor completely.\nSliding your left foot backward and right foot forward, come into a split position.\nThe toes of the right foot should be pointing skywards and the front of the left foot should be touching the ground.\nRaise your arms and join your palms. Stretch your arms and arch your back a little.\nStay in this position for a couple of breaths before bringing your arms back down.\nTo come out of this posture, shift the weight of the body on the hands by pressing them on the floor. Slowly slide your left and right feet back to the initial position before repeating the pose with the left leg in front and right leg behind."
     },
     {
-        "sanskrit_name" : "Viparita Shalabhasana",
+        "sanskrit_name" : "विपरिता शालाभासन",
         "english_name" : "Inverted Locust Pose",
+        "sank_description" : "",
         "description":"Begin in a prone position and bring your chin to center, hands by your side body. Walk your palms underneath you, to the top part of your thighs, palms facing down. You can rock your hips side to side to ensure your palms are as close in towards each other as possible. Press your palms and the top part of your chest into the ground and lift your legs up as high as possible. Focus on keeping your legs and big toes touching and continue breathing.",
-        "time" : "1 Min",
+        "time" : "१ मिनिट्",
         "image": "https://cdn.shopify.com/s/files/1/0064/9962/products/in9730217862_977de0733f_z_large.jpg?v=1546755771",
         "benefits" : "Strengthens the muscles of the spine, the buttocks, and the backs of the arms and the legs. Stretches the shoulders, the chest, the belly and the thighs. Improves posture.",
         "variations":"N/A",
@@ -388,11 +418,12 @@
         "steps":"Lie down flat on your stomach and place your arms under your torso.\nPlace your chin on the floor.\nPoint your toes out and press the tops of your feet gently onto the floor.\nTransfer your body weight on your fours, as you lift your knees away from the floor.\nTighten your glutes and your lower belly. Then, lengthen your lower back in such a way that the muscles in your buttocks lean towards your heels.\nNow, hold hands down as you raise your elbows up towards your stomach.\nTry to make a strong grip of your arms towards your legs, include your upper arms and the trunk muscles energetically.\nBreathe in, and raise your legs from the floor at that time do not bend your knees.\nRaise your legs from your thighs and your spine in the shape of an arch, forming the letter “C”. Now you will see your toes in front of you.\nHold the pose for few minutes or as much as you can.\nBreathe out, put down your leg one by one and discharge (free) your arms from your torso.\nAfter that assume the Balasana and breathe normally. There is no repetition for this pose."
     },
     {
-        "sanskrit_name" : "Urdhva Mukha Svanasana",
+        "sanskrit_name" : "उर्ध्व मुख स्वनासन",
         "english_name" : "Upward Facing Dog",
+        "sank_description" : "",
         "description":"Urdhva Mukha Svanasana (Upward-Facing Dog) is an invigorating backbend that opens the chest and shoulders and strengthens the arms and legs. It’s central to Sun Salutations and is practiced repeatedly between other postures in flow classes. Linking breath to movement is important when you’re practicing Up Dog, because the breath animates and illuminates the pose and opens the heart.",
-        "time" : "1 Min",
-        "image": "https://cdn.lessons.com/assets/images/courses/yoga/upward-facing-dog-yoga-pose.jpg",
+        "time" : "१ मिनिट्",
+        "image": "https://www.gaia.com/wp-content/uploads/UpwardFacingDog_StephSchwartz-768x432.jpg",
         "benefits" : "This strong backbend helps stretch the abdominals, chest, and shoulders while strengthening the arms and the posterior chain of the body, particularly the spinal erectors that help with maintaining good posture. Most of us spend a lot of time sitting at a desk, with our shoulders rolled forward, neck tilted down, and generally slumped without much engagement of the abs or low back. This pose can help reset good posture and encourage proper alignment. Proper alignment and good posture can help reduce the incidence of low back pain. Plus, stretching and opening the chest and shoulders just feels good.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -400,11 +431,12 @@
         "steps":"Move from chaturanga dandasana, exhaling as you lower yourself slowly toward the ground from a plank position. As your body approaches the ground, inhale to straighten your arms as you roll over your toes, changing your foot position from toes tucked under to resting on the tops of your feet. If you can't roll over your toes, it's fine to flip them one at a time. Don't bring your thighs to the floor during the transition if you can help it.\nOpen your chest toward the ceiling as you straighten your arms. Your gaze will go up slightly, but it's not necessary to throw your head back.\nKeep your legs engaged and drop your hips toward the floor. The only things touching the floor are the palms of your hands and the tops of your feet. Push strongly into both.\nKeep your shoulders over your wrists and draw your shoulder blades down and toward your spine to create space between your shoulders and your ears.\nExhale and roll back over your toes to plant the balls of your feet before lifting your hips to downward facing dog."
     },
     {
-        "sanskrit_name" : "Eka Pada Rajakapotasana",
+        "sanskrit_name" : "एक पद राजकपोटासन",
         "english_name" : "One-Legged King Pigeon Pose",
+        "sank_description" : "",
         "description":"The full pose, which is suitable for intermediate students, will be described in the Full Pose section below. First we’ll practice the leg position only, which should be accessible to most experienced beginners. (aa-KAH pah-DAH rah-JAH-cop-poh-TAHS-anna)eka = one pada = foot or leg raja = king kapota = pigeon or dove.",
-        "time" : "1 Min",
-        "image": "https://cdn.lessons.com/assets/images/courses/yoga/one-legged-king-pigeon-yoga-pose.jpg",
+        "time" : "१ मिनिट्",
+        "image": "https://beyogi.com/wp-content/uploads/2015/03/One-Legged-King-Pigeon-Eka-Pada-Rajakapotasana-1100x480.png.webp",
         "benefits" : "This strong backbend helps stretch the abdominals, chest, and shoulders while strengthening the arms and the posterior chain of the body, particularly the spinal erectors that help with maintaining good posture. Most of us spend a lot of time sitting at a desk, with our shoulders rolled forward, neck tilted down, and generally slumped without much engagement of the abs or low back. This pose can help reset good posture and encourage proper alignment. Proper alignment and good posture can help reduce the incidence of low back pain. Plus, stretching and opening the chest and shoulders just feels good.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -412,11 +444,12 @@
         "steps":"From Downward Facing Dog, bring the right leg up into a Down Dog Split.\nBend your right knee and bring that leg forward as if you were going to step into a lunge. Instead of placing your foot down as you would for a lunge, bring your right knee to the floor on the outside of your right hand. The right shin may angle back towards the left hip or be more parallel to the front of your mat, depending on your range of motion.\nRelease your left knee to your mat. Your left leg should be flat on the floor. Take a look backward and make sure that your left foot is pointing straight back.\nSquare your hips towards the front of your mat.\nTake padding (a folded blanket works well) under the right side of your hip as necessary to make the pose more comfortable.3\nIf you feel stable, bring your torso down into a forward bend over your right leg.\nKeep hips square and weight balanced equally on both sides as best you can. If this feels too intense, place a blanket or block or under the hip or back knee. Reach your forehead toward the floor.\nContinue squaring your hips and breathing into any tightness.5\nCome back up, bringing your hands in line with your hips.\nTo release, curl your left toes under and step back into a Downward Facing Dog.\nRepeat the pose on the other side."
     },
     {
-        "sanskrit_name" : "Adho Mukha Svanasana",
+        "sanskrit_name" : "अधो मुख स्वनासन",
         "english_name" : "Downward Facing Dog",
+        "sank_description" : "",
         "description":"One of yoga's most widely recognized poses, Downward-Facing Dog Pose, called Adho Mukha Svanasana in Sanskrit, works to strengthen the core and improve circulation. This rejuvenating pose works to provide a delicious, full-body stretch.",
-        "time" : "1.5 Min",
-        "image": "https://www.yogauonline.com/sites/default/files/styles/wellness_blog_level3_main/public/article_images/adobestock_140430038.jpeg?itok=R9RmTkC-",
+        "time" : "१.५ मिनिट्",
+        "image": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tE3y72ROkd3B2X-T_5xNJg.png",
         "benefits" : "Tones the arms and legs; opens and strengthens the shoulders in flexion; lengthens the hamstrings and stretches the calves; prepares the body for heating inversion.",
         "variations":"N/A",
         "category":"Intermediate",
@@ -425,10 +458,11 @@
     },
 
     {
-        "sanskrit_name" : "Halasana",
+        "sanskrit_name" : "हलासन",
         "english_name" : "Plow Pose",
+        "sank_description" : "",
         "description":"This yoga pose gets its name from the plow – a popular farming tool commonly used in Indian agriculture to prepare the soil for sowing crops. Like its namesake, this pose prepares the ‘field’ of the body and mind for deep rejuvenation. Halasana is pronounced as hah-LAHS-uh-nuh.​ Parsva Halasana is an advanced variation of the Halasana.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://www.healthshots.com/wp-content/uploads/2020/10/yoga-for-weight-loss-halasana.jpg",
         "benefits" : "Calms the brain Stimulates the abdominal organs and the thyroid gland Stretches the shoulders and spine Helps relieve the symptoms of menopause Reduces stress and fatigue Therapeutic for backache, headache, infertility, insomnia, sinusitis.",
         "variations":"N/A",
@@ -438,10 +472,11 @@
     },
 
     {
-        "sanskrit_name" : "Adho Mukha Vrksasana",
+        "sanskrit_name" : "अधो मुख वृक्सासना",
         "english_name" : "Handstand",
+        "sank_description" : "",
         "description": "Handstand (Adho Mukha Vrksasana) has become a glorified yoga pose that can exclude many from feeling as though their practice is up to par. It's important to remember that it doesn't matter how perfect your Handstand Pose looks, especially on Instagram. If you never get away from the wall, it's actually not such a big deal—you get the benefits of the inversion either way.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://media1.popsugar-assets.com/files/thumbor/ebaqskJLKf_TJ-C_qJR2yS3Ctvo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/10/31/649/n/1922729/84005cd0581756accefb01.88164494_edit_img_image_7676437_1453065000/i/Learn-How-Do-Handstand.jpg",
         "benefits" : "Improves postural and body awareness. Improves circulation—lymphatic and venous Can help reduce swelling in your ankles and feet Can boost energy and fight fatigue. Can help build confidence and empowerment. Improves posture and counteracts the effects of sitting and computer work Mainly strengthens your core, back, chest, arms, shoulders, thighs, buttocks (gluteals)",
         "variations": "N/A",
@@ -451,10 +486,11 @@
     },
 
     {
-        "sanskrit_name" : "Salabhasana",
+        "sanskrit_name" : "सलभासन",
         "english_name" : "Locust Pose",
+        "sank_description" : "",
         "description": "Grouped among the so-called baby backbends, which includes Dhanurasana (Bow Pose) and Sea Monster Pose (described in the Variations section below), it is an unassuming pose that, like other seemingly simple poses, is actually a lot more interesting and challenging than it appears at first glance.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://www.ekhartyoga.com/media/image/articles/esther-ekhartlocust.jpg",
         "benefits" : "Strengthens the muscles of the spine, buttocks, and backs of the arms and legs. Stretches the shoulders, chest, belly, and thighs. Improves posture. Stimulates abdominal organs. Helps relieve stress",
         "variations": "N/A",
@@ -464,23 +500,25 @@
     },
 
     {
-        "sanskrit_name" : "Salamba Sarvangasana",
+        "sanskrit_name" : "सलाम्बा सर्वंगासन",
         "english_name" : "Shoulder Stand",
+        "sank_description" : "",
         "description": "Shoulderstand has been called the queen of asanas, a view affirmed by B.K.S. Iyengar in Light on Yoga. It's often the first inversion that yoga beginners tackle because it's much more stable than a headstand or handstand. However, there are serious risks associated with doing Shoulderstand, so it's important to set up the pose correctly for the safest possible experience.",
-        "time" : "1.5 Min",
+        "time" : "१.५ मिनिट्",
         "image": "https://mindbodygreen-res.cloudinary.com/images/c_scale,w_767,q_auto,f_auto,fl_lossy/org/nmwu80x8uk87k61fl/shoulder-stand-salamba-sarvangasana.jpg",
-        "benefits" : "Shoulderstand stretches the shoulders and neck. As an inversion, it sends blood from the legs and pelvis back to the heart and lungs to become freshly oxygenated, which may increase energy.1 Like many yoga poses, practicing Shoulderstand can be a calming and relaxing experience when performed correctly.",
+        "benefits" : "Shoulderstand stretches the shoulders and neck. As an inversion, it sends blood from the legs and pelvis back to the heart and lungs to become freshly oxygenated, which may increase energy.१ Like many yoga poses, practicing Shoulderstand can be a calming and relaxing experience when performed correctly.",
         "variations": "N/A",
         "category": "Intermediate",
         "target": "Shoulderstand can be a calming and relaxing.",
         "steps": "Start with a stack of two folded blankets. Lay down on your mat aligning shoulders onto the blankets. With legs bent and feet on the floor (as if setting up for bridge pose) begin to walk your shoulders underneath your upper back feeling the chest gently rising.\nLift your hips off of the mat coming into bridge pose and extend your arms onto the ground, palms facing down as if your hands could touch your heels. Press firmly into the palms using them as leverage to lift onto the balls of the feet and extend one leg up. Bend at the elbows, place your hands on your low back creating a shelf, and then extend the next leg up.\nOnce you raise the legs, don't turn your head to the side to look around the room, since you can injure your neck. Keep your gaze upward and your neck straight.\nLift up through the balls of your feet. Walk your hands further up the back for more stability. Feel the chest reaching towards the chin to support opening the upper back.\nMove your hips toward the front of the room and your feet toward the back of the room to straighten the body. The correct alignment is with the hips over the shoulders and feet over the hips. Ask your teacher or a friend to help you determine if your legs are perpendicular to the floor.\nStay in the pose for up to 10 breaths.\nTo come out, bring your feet back over your head to come through Plow Pose.\nRoll out from Plow slowly."
     },
     {
-        "sanskrit_name" : "Dhanurasana",
+        "sanskrit_name" : "धनुरासन",
         "english_name" : "Bow Pose",
+        "sank_description" : "",
         "description": "Bow Pose (Dhanurasana) is an intermediate yoga pose similar to a backbend. It’s one of the 12 basic Hatha Yoga poses. By lifting your torso up and backward, the chest is opened and the back is deeply stretched. This pose is a great way to deeply stretch the back after a long day of hunching over. This yoga pose can be performed as part of your regular practice or within a sequence of back stretches. After your body is warmed up from some standing and floor poses, perform Bow Pose. This pose can also be used as preparation for a deeper backbend stretch. A final relaxation pose follows nicely.",
-        "time" : "2 Min",
-        "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/AdobeStock_193776647-1-e1572575824263.jpeg",
+        "time" : "२ मिनिट्",
+        "image": "https://www.ekhartyoga.com/media/images/articles/content/Dhanurasana-Bow-pose-Ekhart-Yoga.jpg",
         "benefits" : "Bow Pose primarily benefits the chest and back. It’s natural for the body to bend backward, but this is rarely a position we find ourselves in. Bow Pose can be used to open up the chest and stretch out the back, which is especially beneficial for people who sit or stand for long periods of time. This yoga pose also opens up the neck, shoulders, and abdomen. It improves flexibility in the back and encourages balance in the core and chest. If you have a stiff back, Bow Pose may be beneficial. For people with a desk job, Bow Pose can help improve posture and alleviate the discomfort that slouching may cause.",
         "variations": "N/A",
         "category": "Intermediate",
@@ -489,11 +527,12 @@
     },
 
     {
-        "sanskrit_name" : "Paschimottanasana",
+        "sanskrit_name" : "पश्चिमोत्तनासन",
         "english_name" : "Seated Forward Bend",
+        "sank_description" : "",
         "description": "Seated Forward Bend (Paschimottanasana) is a classic pose from Hatha yoga. It gives the whole back of your body a good stretch, from your calves to your hamstrings (back of the thighs) to your spine.",
-        "time" : "2 Min",
-        "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/AdobeStock_193776776-e1572640128210.jpeg",
+        "time" : "२ मिनिट्",
+        "image": "https://www.ekhartyoga.com/media/images/articles/content/Paschimottanasana-Seated-Forward-bend-Ekhart-Yoga.jpg",
         "benefits" : "This pose stretches these areas and helps open up your hips. This stretch is excellent for runners who tend to have tight hamstrings. Like many yoga poses, it is also considered to be a calming pose. It is said that forward bends can help relieve stress and even improve your mood.",
         "variations": "N/A",
         "category": "Intermediate",
@@ -502,10 +541,11 @@
     },
 
     {
-        "sanskrit_name" : "Bakasana",
+        "sanskrit_name" : "बकासन",
         "english_name" : "Crow Pose",
+        "sank_description" : "",
         "description": "Bakasana, and the similar Kakasana are balancing asanas in hatha yoga and modern yoga as exercise. In all variations, these are arm balancing poses in which hands are planted on the floor, shins rest upon upper arms, and feet lift up.",
-        "time" : "2 Min",
+        "time" : "२ मिनिट्",
         "image": "https://images.ctfassets.net/p0sybd6jir6r/3wZVGNBNyiq7zpoKYngx7q/cb54f6fabf55069adabc2f62cff8ecf7/Fly-your-crow-pose-daae21e1342867989836994ae8e025c3.jpg?w=1600&q=70",
         "benefits" : "Crow Pose strengthens the wrist, forearms, and abdomen while stretching your upper back. It improves balance and core strength. Mastering Crow builds your yoga confidence and opens the door to many more poses involving arm balance. It can also improve your awareness of where your body is in space (called proprioception) and enhance your body control.",
         "variations": "Some people like to start out with a block under their feet. You can try this and see how it feels. Lift one foot at a time if you can't quite get both feet up yet. This helps you build strength and get a feel for the technique. ",
@@ -515,10 +555,11 @@
     },
 
     {
-        "sanskrit_name" : "Ardha Chandrasana",
+        "sanskrit_name" : "अर्धचन्द्रासना",
         "english_name" : "Half moon pose",
+        "sank_description" : "",
         "description": "Named after the moon, the standing balance Ardha Chandrasana (Half Moon Pose) invites you to tap into both the calm, balancing energy of the moon and the fiery force of the sun. In this pose, you discover how the coming together of two opposing energies generates a power that is greater than its separate parts. In Half Moon Pose, two opposing movements are happening at once: You are rooting down into the earth with your standing leg while simultaneously lifting and extending your raised leg into space. The meeting of these two forces—rooting down and extending out—gives you the power to balance and suspend your spine and torso in midair. The pose teaches coordination and can help you understand the interdependence of the actions in your body. It can train you to stay focused and balanced during challenging moments of transition in asana practice.",
-        "time" : "2 Min",
+        "time" : "२ मिनिट्",
         "image": "https://www.ekhartyoga.com/media/image/articles/lisa-petersen-half-moon-pose.jpg",
         "benefits" : "Strengthens the abdomen, ankles, thighs, buttocks, and spine Stretches the groins, hamstrings and calves, shoulders, chest, and spine. Improves coordination and sense of balance Helps relieve stress. Improves digestion",
         "variations": "To increase the challenge of this pose, raise the lower hand away from the floor and rest it on the standing thigh. Balance solely on the standing leg for 15 to 30 seconds.",
@@ -527,11 +568,12 @@
         "steps": "Begin in Triangle Pose (trikonasana) with the right leg forward. Bend your right knee softly and bring your left hand to your hip.\nBring your right hand to the floor in front of your right foot. Your hand should be under your shoulder when you are in the full pose, so in order to set it up in the correct position, place it about a foot in front of and 5 or 6 inches to the right of your right foot. Tent your hand so that just your fingertips on the floor.\nBegin to straighten your right leg while simultaneously lifting your left foot off the floor. Keep your left leg as straight as possible. \nOpen your hips, stacking the left hip point on top of the right hip point. \nBring your left leg straight and parallel to the floor. Flex your left foot strongly with the toes pointing toward the left side of the room.\nWhen you feel balanced on the right leg, reach the left arm up toward the ceiling, opening the chest and making a straight line with the right and left arms perpendicular to the floor.\nFinally, turn your head so that your gaze is lifted toward your upraised left fingertips.\nThe balance here for around five breaths before releasing the left leg to the floor and repeating the pose on the other side."
     },
     {
-        "sanskrit_name" : "Ustrasana",
+        "sanskrit_name" : "उस्त्रासना",
         "english_name" : "Camel pose",
+        "sank_description" : "",
         "description": "When we talk about backbends in yoga, most people probably picture Full Wheel. But Camel is a more accessible pose for a lot of yoga students. Full Wheel is undeniably a backbend, but it's also a lot about arm strength and shoulder flexibility. If you don't have those things, you can't get the full benefits of this pose. Camel allows you to experience deep spinal extension without having to support your weight with your arms. It's also a much more flexible pose. With props, you have a lot of options for your arm position.",
-        "time" : "1.5 Min",
-        "image": "https://yogism-55181.web.app/assets/poses.img/ustrasana.jpg",
+        "time" : "१.५ मिनिट्",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Camel-pose-Ustrasana-Esther-Ekhart.jpg",
         "benefits" : "Camel Pose stretches the front of the body including the chest, abdomen, and quadriceps. It improves spinal mobility as much of the day you are likely to be sitting or slouching and bending your spine forward. By doing a backbend, you are flexing it in the opposite direction and it may help you develop better posture. It is said to open the heart chakra, which is your energy center for love, caring, and compassion.",
         "variations": "Use blocks on either side of your feet if you need a little more height for your hands. You can keep your hands on your low back if reaching back for your feet or using blocks doesn't work for you. Your fingers should be pointed down and you will be squeezing your elbows towards each other.",
         "category": "Beginner",
@@ -539,10 +581,11 @@
         "steps": "Kneel with body upright and hips stacked over the knees. Take padding (a blanket or fold your mat so it is double thickness) under your knees if they are sensitive.\nDraw your hands up the side of your body until your palms reach the sides of your rib cage. Let your thumbs rest on the back of the ribs as the other four fingers wrap around the sides and fronts of the rib cage with elbows pointing out. With this grip, use your hands to lift the rib cage up for support as you start to open your chest toward the ceiling.\nMaintain the position of your chest as you reach your hands back one at a time to grasp your heels. If you need a little more height, tuck your toes under. Otherwise, the tops of the feet can be flat on the floor.\nBring your hips forward so that they stay over your knees.\nIf it feels good, let your head come back, opening your throat. If that doesn't work for your neck, you can keep the chin tucked instead.\nRelease by bringing your chin toward your chest and hands to your hips. Firm your abs and support your lower back with your hands as you slowly bring your body to an upright kneeling position."
     },
     {
-        "sanskrit_name" : "Sukhasana",
+        "sanskrit_name" : "सुखासनम्",
         "english_name" : "Easy Pose",
+        "sank_description" : "",
         "description" : "Sukhasana (Easy Pose) title comes from the Sanskrit word ‘Sukha’ meaning ‘Pleasure’. This pose is a meditative pose and is done with the crossing of the legs in the most simplest form unlike other meditative poses",
-        "time" : "5 Min",
+        "time" : "5 मिनिट्",
         "image": "https://fitsri.com/wp-content/uploads/2020/03/Easy-Pose-1.jpg",
         "benefits" : "Sukhasana yoga posture facilitates meditation and pranayama. It improves awareness regarding the body’s posture and keeps the spine in an ideal position. If you are mentally stressed or had a tiring day, this posture will offer peace and mental calm. This pose is the standard meditative pose and is important to line up the energetic channels within the body to help the flow of prana. This posture gives room for improving the flexibility of the waist and the lower region of the body.",
         "variations":"N/A",
@@ -551,10 +594,11 @@
         "steps":"Sit on the ground or the mat with legs stretched out in front of you and keep the spine straight. Place the hands on the thighs with elbows bent. Take a few breaths here and connect the breath with the body.\nInhale and fold the legs. Fold the right foot under the left thigh. And fold the left foot under the right thigh.\nCross the legs at the mid shins, and not at your ankles. Your pubic bone and the cross of your shins should be in one line.\nKeep your ankles flexed a little so that your feet are on their outside edges, perpendicular to the floor.\nThe soles of your feet face to the sides and your toes should face forward.\nKeep the head, neck and back straight. Draw your abdomen softly inward and upward.\nPlace the hands on the knees in any mudra depending on the pranayama at practice, or if this posture is only to relax then one could place the palms one over the other close to the navel.\nStay here focusing from the center of the body, which is the navel and raising the back and the spine upwards and belly inwards and upwards. Remain for as long as the pranayama practice demands or as per the comfort of the body.\nSlowly relax the back and bring the legs stretched out in front of you and come in Dandasana and relax for a few breaths if required."
     },
     {
-        "sanskrit_name" : "Utthita Trikonasana",
+        "sanskrit_name" : "उत्थिता त्रिकोणासन",
         "english_name" : "Triangle Pose",
+        "sank_description" : "",
         "description" : "Triangle Pose (Utthita Trikonasana) is a foundation yoga pose across almost every different style of yoga. You will almost certainly encounter it within your first few yoga classes and for years to come. Its relatively simple set-up belies its power as a stretch for the hamstrings. Establishing the foundation of the pose with grounded feet and strong legs allows the chest to twist deeply and blossom open.",
-        "time" : "2 Min",
+        "time" : "२ मिनिट्",
         "image": "https://missyogafit.com/wp-content/uploads/2018/12/extended-side-angle-pose-2-1140x761.jpg",
         "benefits" : "Triangle Pose strengthens the legs and stretches the groin, hamstrings, and hips, and opens the chest and shoulders. It also challenges and improves balance and stability.",
         "variations":"N/A",
@@ -563,11 +607,12 @@
         "steps": "Engage your right thigh muscles and draw your right femur into its socket. Extend your right hand toward the front of the room, keeping your right hip tucked.\nLower your right hand down onto your shin or ankle. If you are more open, bring your right hand to the floor on the inside or on the right foot. Do whichever one feels most comfortable.\nThe left shoulder stacks on top of the right one as you open your chest, reaching your left fingertips toward the ceiling while keeping your left shoulder rooted in its socket. \nTurn your head to take your gaze up toward your left fingertips. If this is uncomfortable for your neck, it's also fine to keep the head in a more neutral position. \nContinue to draw your right thigh muscles upward, deepening the crease in your right hip.\nSoften your right knee slightly to prevent hyperextension (this is called a microbend).\nStay for at least 5 breaths.\nRepeat the pose with your left leg forward."
     },
     {
-        "sanskrit_name" : "Phalakasana",
+        "sanskrit_name" : "फलकासन",
         "english_name" : "Plank Pose",
+        "sank_description" : "",
         "description" : "The plank is an excellent abdominal and core exercise. To ensure you keep your core strong and stable, add the plank to your ab workout program.",
-        "time" : "2 Min",
-        "image": "https://cdn.lessons.com/assets/images/courses/yoga/plank-yoga-pose.jpg",
+        "time" : "२ मिनिट्",
+        "image": "https://images.healthshots.com/healthshots/en/uploads/2024/02/26140408/Phalakasana-ins1.jpg",
         "benefits" : "Strengthening the core is an important aspect of any workout regimen. A strong and solid core looks and feels good. But more importantly, it helps to stabilize, balance, and power the body during just about every other activity. Core strength is the basis for all coordinated and powerful athletic movements. A strong core can reduce stress on the joints and allow you to achieve better posture. The plank exercise can also be used as the basis for a core muscle strength and stability test. The plank is more of a strength-building exercise than a cardio exercise, but by engaging a range of muscles it can also help to boost your calorie burn.",
         "variations":"N/A",
         "category":"Beginner",
@@ -575,11 +620,12 @@
         "steps": "Begin in the plank position, face down with your forearms and toes on the floor. Your elbows are directly under your shoulders and your forearms are facing forward. Your head is relaxed and you should be looking at the floor.\nEngage your abdominal muscles, drawing your navel toward your spine. Keep your torso straight and rigid and your body in a straight line from your ears to your toes with no sagging or bending. This is the neutral spine position. Ensure your shoulders are down, not creeping up toward your ears. Your heels should be over the balls of your feet.\nHold this position for 10 seconds. Release to floor.\nOver time work up to 30, 45, or 60 seconds."
     },
     {
-        "sanskrit_name" : "Virabhadrasana I",
+        "sanskrit_name" : "विरभद्रासन I",
         "english_name" : "Warrior I",
+        "sank_description" : "",
         "description" : "Warrior I is one of yoga's foundational poses, but getting the alignment right can be a little tricky. It teaches you balance and to be more aware of your body positioning. You will recognize the lunge stance as one common for exercise and stretching. Incorporate this pose into a flow as part of a standing yoga sequence.",
-        "time" : "2 Min",
-        "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Warrior-1-for-Pose-Page-e1572145174937.jpeg",
+        "time" : "२ मिनिट्",
+        "image": "https://www.ekhartyoga.com/media/images/articles/content/Warrior-1-Pose-Virabhadrasana-1-Ekhart-Yoga.jpg",
         "benefits" : "Warrior I strengthens the legs and upper arms, improves balance and core strength, stretches the muscles around the hips. You get a good stretch of both the front and rear thigh (quadriceps and hamstrings), hips, and chest, as well as a back extension of the erector spinae muscle. It is a hip opener, which is a good antidote for sitting all day. This pose can be therapeutic if you have sciatica. It is also an energizing pose, allowing better breathing and circulation.",
         "variations":"Though Warrior I has traditionally been taught with the heel of the front foot lined up with the arch of the back foot (like standing on a tightrope), it makes more sense for most people to separate their feet to either side of the mat a bit more (like standing on train tracks). This separation allows the hips to square more effectively.",
         "category":"Beginner",
@@ -587,11 +633,12 @@
         "steps": "From Downward Facing Dog, step your right foot forward to the inside of your right hand.\nPivot on the ball of your left foot and drop your left heel to the floor with your toes turned out about 45 degrees from the heel.\nBend your right knee directly over your right ankle so that your right thigh is parallel to the floor.\nRise to standing, bringing your arms out to the side and up toward the ceiling. Your chest stays open as you come into a slight spinal extension (also known as a backbend).\nYour palms can touch overhead or stay shoulder's distance apart, whichever is more comfortable.\nLift your gaze up toward your thumbs and slide your shoulder blades down the back.\nCheck the alignment of your hips. Draw your right hip back and your left hip forward so that both hips are squared to the front of your mat.\nGround down through the outer edge of your left foot. Make sure your right thigh is still as parallel to the floor as possible.\nDrop your hands to your mat and step your right leg back to Downward Dog. Take a few breaths or move through a vinyasa before doing the left side."
     },
     {
-        "sanskrit_name" : "Virabhadrasana II",
+        "sanskrit_name" : "विरभद्रासन II",
         "english_name" : "Warrior II",
+        "sank_description" : "",
         "description" : "Warrior II is one of yoga's foundational poses, but getting the alignment right can be a little tricky. It teaches you balance and to be more aware of your body positioning. You will recognize the lunge stance as one common for exercise and stretching. Incorporate this pose into a flow as part of a standing yoga sequence.",
-        "time" : "2 Min",
-        "image": "https://cdn.lessons.com/assets/images/courses/yoga/plank-yoga-pose.jpg",
+        "time" : "२ मिनिट्",
+        "image": "https://cdn.prod.website-files.com/61384703bca2db472ca04cfa/648d7618416218e8f0198717_Learning-Yoga-How-to-Do-Warrior-2.jpg",
         "benefits" : "Warrior II strengthens the legs and upper arms, improves balance and core strength, stretches the muscles around the hips. You get a good stretch of both the front and rear thigh (quadriceps and hamstrings), hips, and chest, as well as a back extension of the erector spinae muscle. It is a hip opener, which is a good antidote for sitting all day. This pose can be therapeutic if you have sciatica. It is also an energizing pose, allowing better breathing and circulation.",
         "variations":"Though Warrior I has traditionally been taught with the heel of the front foot lined up with the arch of the back foot (like standing on a tightrope), it makes more sense for most people to separate their feet to either side of the mat a bit more (like standing on train tracks). This separation allows the hips to square more effectively.",
         "category":"Beginner",
